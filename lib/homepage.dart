@@ -424,7 +424,13 @@ class _HomePageState extends State<HomePage> {
                 Expanded(
                   child: _weather != null
                     ? buildWeatherContent()
-                    : CircularProgressIndicator(),
+                    : const SizedBox(
+                      height: 50,
+                      child: CircularProgressIndicator(
+                        color: Colors.white,
+                        strokeWidth: 3,
+                      ),
+                    ),
                 ),
               ],
             ),
