@@ -1,16 +1,6 @@
 # excweatherapp
 
-A new Flutter project.
+Weather App with Flutter and OpenWeatherAPI
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![img2](https://github.com/hermes13002/Weather-App/assets/82550064/4951ca14-fdaf-4593-9e17-66e48ce98aa8)
+![img1](https://github.com/hermes13002/Weather-App/assets/82550064/1fe60e77-b59d-4568-a8e4-850dac0c1574)
